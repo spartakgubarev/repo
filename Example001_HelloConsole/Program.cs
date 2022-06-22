@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Spatak. Hello, World!");
